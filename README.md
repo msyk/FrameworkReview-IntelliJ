@@ -3,5 +3,5 @@ The homework about reviewing for framework in "Software Pattern" of TopSE. This 
 
 Sorce code fiels are in the "src/topse/pattern" directory.
 
-minimal-json is requred. Thanks to developers.
+minimal-json is included. Thanks to developers.
 https://github.com/ralfstx/minimal-json
